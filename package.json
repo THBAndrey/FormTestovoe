@@ -5,11 +5,15 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "format:check": "prettier --check **/*.vue **/*.js **/*.scss **/*.css",
+    "format:write": "prettier --write **/*.vue **/*.js **/*.scss **/*.css"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
+    "vue-moment": "^4.1.0",
     "vue-router": "^3.1.5",
     "vuex": "^3.1.2"
   },

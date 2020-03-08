@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "address": "пр. Косыгина, д. 26, к. 1",
+    "geo": "",
+    "img": "imgSample.webp",
+    "time": {
+      "start": "9:30",
+      "end": "18:30"
+    }
+  },
+  {
+    "id": 2,
+    "address": "7 линия В. О., д. 34",
+    "geo": "",
+    "img": "imgSample.webp",
+    "time": {
+      "start": "9:30",
+      "end": "18:30"
+    }
+  },
+  {
+    "id": 3,
+    "address": "ул. Восстания, д. 12",
+    "geo": "",
+    "img": "imgSample.webp",
+    "time": {
+      "start": "9:30",
+      "end": "18:30"
+    }
+  },
+  {
+    "id": 4,
+    "address": "ул. Бутлерова, д. 42 (вход с пр. Науки)",
+    "geo": "",
+    "img": "imgSample.webp",
+    "time": {
+      "start": "9:30",
+      "end": "18:30"
+    }
+  }
+]
